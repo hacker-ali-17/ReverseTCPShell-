@@ -25,6 +25,7 @@
 
 Hacking Windows with ReverseTCPShell, Bypass Firewall and 'No Virus Encryption' security software
       This tool is a PowerShell script that runs on Windows and creates the payload in 3 different ways it gives you the payload as code that you put in cmd and hack.
+
 شرح الاداة #
 
 إختراق أنظمة الويندوز عن طريق أداة ReverseTCPShell وتخطي جدار الحماية وبرامج الحماية "بدون تشفير للبايلود"
