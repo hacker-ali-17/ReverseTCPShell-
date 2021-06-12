@@ -22,11 +22,6 @@
 
 ```
 
-#Tool description
-
-Hacking Systems with ReverseTCPShell, Bypassing Firewall and Security Software "No Payload Encryption"
-    This tool is a PowerShell script that runs on operating systems and it creates the payload in 3 different ways it gives you the payload in the form of code that you put in cmd and hacked.
-
 
 ## PoC
 
