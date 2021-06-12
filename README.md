@@ -12,7 +12,7 @@
  | | \ \  __/\ V /  __/ |  \__ \  __/ | | |____| |        ____) | |  | |  __/ | |
  |_|  \_\___| \_/ \___|_|  |___/\___|_|  \_____|_|       |_____/|_|  |_|\___|_|_|
                                                      
-                                                                                     - By: @ZHacker13                                                                                                           
+                                                                                     - By: HACKER ALI 17                                                                                                           
 
  - | Modules    | - Show C2-Server Modules.
  - | Info       | - Show Remote-Host Info.
@@ -28,4 +28,5 @@
 
 ## Contact
 
-* Twiiter: [@ZHacker13](http://twitter.com/ZHacker13)
+* facebook: [أكادمية تعلم البرمجة حتي الاحتراف
+](https://www.facebook.com/Alloush.dz)
